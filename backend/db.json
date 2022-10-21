@@ -1,9 +1,11 @@
 {
-  "users": [
-    {
-      "name": "asd",
-      "email": "asd",
-      "id": 1
-    }
-  ]
+    "users": [{
+        "id": 1,
+        "name":"Paulo Guilherme",
+        "email": "paulo@hotmail.com"
+    }, {
+        "id": 2,
+        "name":"Anna Julia",
+        "email": "julia@hotmail.com"
+    }]
 }
